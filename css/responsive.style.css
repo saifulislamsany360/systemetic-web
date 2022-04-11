@@ -1,0 +1,258 @@
+
+
+@media only screen and (min-width:320px) and (max-width:520px){
+    .inner_top_header {
+        width: 100%;
+    }
+    
+    .mini_manu {
+        width: 100%;
+        padding: 0 0 5px 0;
+    }
+    
+    .mini_manu ul {
+        text-align: center;
+    }
+    .search_bar {display: block;margin: auto;float: none;}
+    
+    .search_bar form {padding: 3%;}
+    
+    #top_header_area {padding: 8px 0px;}
+    .inner_header {
+        padding: 10px 0px;
+    }
+    
+    .logo {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 5px;
+    }
+    
+    .media_icon {
+        float: none;
+        width: 100%;
+        margin: auto;
+    }
+    .mean-nav {width: 0;margin-top: 0px;}
+    .mean-nav {width: 0;margin-top: 0;}
+    .inner_manu.container {
+        background: none;
+        min-height: 0;
+        padding: 0;
+    }
+    .inner_slider_section {
+        margin-top: 0px;
+    }
+    .bx-viewport {
+        height: auto!important;
+    }
+    img.aligenleft {
+        width: 100%;
+        padding-bottom: 10px;
+    }
+    
+    .inner_hero_section h2 {
+        font-size: 36px;
+        margin:  0;
+    }
+    
+    .inner_hero_section {
+        padding: 0;
+    }
+    
+    .inner_hero_section p {
+        margin: 8px 0;
+    }
+    #work_section {
+        padding: 0;
+    }
+    
+    .child_work {
+        width: 100%;
+    }
+    
+    .child_work h2 {
+        margin: 11px 0px;
+        padding: 0;
+    }
+    
+    .about_section p {
+        /* padding: 0px; */
+        margin: 5px 0;
+    }
+    .inner_service_child {
+        margin-bottom: 10px;
+    }
+    
+    .inner_service_child:nth-child(4) {
+        margin-bottom: 10px;
+    }
+    .client_say {
+        margin: 0;
+    }
+    #footer_area {
+        padding: 0px;
+    }
+    
+    .footer_child {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .footer_child h3 {margin: 05px 0 6px 0;}
+    
+    .footer_child p {
+        margin-bottom: 5px;
+    }
+    
+    .child_div {
+        padding-bottom: 0;
+    }
+    
+    .left_copyright {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .left_copyright h5 {
+        margin: 0;
+        text-align: left;
+    }
+    
+    .right_copyright {
+        width: 100%;
+    }
+    
+    .right_copyright p {
+        padding: 0;
+        margin: 0;
+        text-align: left;
+    }
+    
+}
+@media only screen and (min-width:521px) and (max-width:767px){
+    .inner_header {
+        padding: 20px 0 0 10px;
+    }
+    .inner_manu{
+        padding: 0 !important;
+    }
+    .inner_slider_section {
+       margin-top: 0;
+    }
+    .bx-viewport {
+        height: 353px !important;
+    }
+    .inner_hero_section img {
+        width: 100%;
+        padding-bottom: 8px;
+        padding-top:0px;
+    }
+    .inner_hero_section h2 {
+        font-size: 45px;
+    }
+    .inner_hero_section p {
+        margin: 10px;
+    }
+    .child_work {
+        width: 100%;
+    }
+    .child_work h2 {
+        padding: 20px;
+        margin: 0;
+    }
+    #work_section {
+        padding: 0;
+    }
+    .child_left {
+        margin-right: 4%;
+    }
+    .inner_service_child {
+        margin-bottom: 12px;
+    }
+    
+    .inner_service_child:nth-child(4) {
+        margin-bottom: 12px;
+    }
+    
+    .child_right p {
+        font-size: 15px;
+    }
+    .inner_service_child {
+        width: 100%;
+        float: left;
+    }
+    .child_right h2 {
+        padding: 10px 0;
+    }
+    #footer_area {
+        padding: 15px 0;
+    }
+    .footer_child {
+        width: 46%;
+        float: left;
+    }
+    .left_copyright {
+        width: 100%;
+    }
+    
+    .right_copyright {
+        width: 100%;
+    }
+    
+    .left_copyright h5 {
+        margin: 0;
+    }
+    
+    .right_copyright p {
+        margin: 0;
+    }
+    .inner_manu {
+        background: none;
+        padding: 0;
+        margin: 0;
+        min-height: auto;
+    }
+    
+    .inner_manu:after {
+        background: none;
+    }
+    .inner_manu ul li {
+    font-size: 12px;
+    }
+    
+    
+   
+}
+@media only screen and (min-width:768px) and (max-width:1023px){
+    .inner_manu ul{
+        font-size: 12.5px;
+    }
+    .service_section h2 {
+        font-size: 23px;
+    }  
+    .inner_service_child  {
+        margin-bottom: 15px;
+    }
+    .client_say h2 {
+        font-size: 23px;
+    }
+    .child_left{
+        padding-top: 5px;
+    }
+    .child_right p {
+        line-height: 1.5em;
+    }
+    .left_copyright {
+        width: 70%;
+    }
+    
+    .right_copyright {
+        width: 30%;
+    }
+}
+@media only screen and (min-width:1024px) and (max-width:1180px){
+    
+}
